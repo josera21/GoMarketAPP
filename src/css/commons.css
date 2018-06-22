@@ -1,0 +1,55 @@
+.center-this {
+  text-align: center;
+}
+
+.top-space {
+  margin-top: 2em;
+}
+
+.left-space {
+  margin-left: 1.2em;
+}
+
+.login-form {
+  text-align: center;
+  width: 80%;
+  margin: 60px auto 0;
+}
+
+input[type=email], input[type=password] {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  outline: none;
+  height: 100%;
+  padding-top: 15px;
+  padding-bottom: 16px;
+}
+
+.input-reg {
+  width: 100%;
+  font-size: 4em;
+}
+
+.login-button {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.forgot-password {
+  display: block;
+  margin: 8px auto 0 auto;
+  font-size: 14px;
+}
+
+.btn-green {
+  background-color: seagreen;
+}
+
+.bottom-toolbar {
+  height: 4em;
+}
+
+.btn-bottom-toolbar {
+  margin-left: 2.2em;
+}

@@ -1,0 +1,26 @@
+.title {
+    margin: 5px;
+    font-size: 2em;
+    color: royalblue;
+}
+
+.list-head {
+    font-size: 1.2em;
+}
+
+.list-item {
+    font-style: initial;
+}
+
+.description {
+	margin: 0 10px;
+	padding: 14px;
+	border: 1px solid royalblue;
+	border-radius: 8px;
+	font-size: 20px;
+	background-color: #fff;
+}
+
+.center-content {
+    width: 100%;
+}
